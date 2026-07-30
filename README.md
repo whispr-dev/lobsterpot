@@ -1,35 +1,53 @@
-0822242127
+<!-- repo-convergence:readme-header:start -->
+<!-- repo-convergence:language=FILL_ME -->
+# lobsterpot
 
-The aim of this project was to create a lobsterpot for jellyfish catching.
+<p align="center">
+  <a href="https://github.com/whisprer-specops/lobsterpot/releases">
+    <img src="https://img.shields.io/github/v/release/whisprer-specops/lobsterpot?color=4CAF50&label=release" alt="Release Version">
+  </a>
+  <a href="https://github.com/whisprer-specops/lobsterpot/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/license-Hybrid-green.svg" alt="License">
+  </a>
+  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg" alt="Platform">
+  <a href="https://github.com/whisprer-specops/lobsterpot/actions">
+    <img src="https://img.shields.io/badge/build-workflow%20not%20set-lightgrey.svg" alt="Build Status">
+  </a>
+</p>
 
-ahving designed a jellyfish with everysingle bit of stealthing, crafty navigation and tools to get about i decided it was prudent to make sure there was an equeally capable device to catch them - both to make sure they could be controlled and to study their evolution by actually looking at the altered code of those that were captured post release/replication in the wild.
+[![GitHub](https://img.shields.io/badge/GitHub-whisprer-specops%2Flobsterpot-blue?logo=github&style=flat-square)](https://github.com/whisprer-specops/lobsterpot)
+![Commits](https://img.shields.io/github/commit-activity/m/whisprer-specops/lobsterpot?label=commits)
+![Last Commit](https://img.shields.io/github/last-commit/whisprer-specops/lobsterpot)
+![Issues](https://img.shields.io/github/issues/whisprer-specops/lobsterpot)
+[![Version](https://img.shields.io/badge/version-3.1.1-blue.svg)](https://github.com/whisprer-specops/lobsterpot)
+[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey.svg)](https://www.microsoft.com/windows)
+[![Language](https://img.shields.io/badge/language-FILL_ME-blue.svg)](#)
+[![Status](https://img.shields.io/badge/Status-Alpha%20Release-orange?style=flat-square)](#)
 
-ofc in all reality i was designing an antivirus with firewalling and a high degree of ai - but that's a dull way to lookk at a project that can be so much more fun!
+<p align="center">
+  <img src="/assets/lobsterpot-banner.png" width="850" alt="lobsterpot Banner">
+</p>
+<!-- repo-convergence:readme-header:end -->
 
-this project has not  only the same AAI brain that the jellyfish was based on - an RNN/CNN/LTSM three way GAN assisted by central ganglion with cellular wutomaton control layer featyuring crosstalk, but also, variously:
-- Behavioral Analysis
-- Signature-based Detection:
-- Quarantine Protocol
-- Reinforcement Learning
-- Evolutionary Algorithms
-- Behavioral Analysis Engine
-- Threat Intelligence
-- Learning Database
-- Self-Healing
-- Adaptive Firewall
-- Collaboration with other lobster pots
+<p align="center">
+  <a href="https://github.com/whisprer/lobsterpot/releases"> 
+    <img src="https://img.shields.io/github/v/release/whisprer/lobsterpot?color=4CAF50&label=release" alt="Release Version"> 
+  </a>
+  <a href="https://github.com/whisprer/lobsterpot/actions"> 
+    <img src="https://img.shields.io/github/actions/workflow/status/whisprer/lobsterpot/lint-and-plot.yml?label=build" alt="Build Status"> 
+  </a>
+</p>
 
-the code
-it's initially coded in  Python too take advaantage of pytorch/kura/tensorflow/etc. but may well bee converted over to C++ later on.
+![Commits](https://img.shields.io/github/commit-activity/m/whisprer/lobsterpot?label=commits) 
+![Last Commit](https://img.shields.io/github/last-commit/whisprer/lobsterpot) 
+![Issues](https://img.shields.io/github/issues/whisprer/lobsterpot) 
+[![Version](https://img.shields.io/badge/version-3.1.1-blue.svg)](https://github.com/whisprer/lobsterpot) 
+[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey.svg)](https://www.microsoft.com/windows)
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-it seems to have topped out about 2000 lines of code and frankly i think i'm about done with the kind of activity that would add anything so i reckon  that gives some idea of it's scope.
-
-dependencies
-- it needs `ChromeDriver.exe` and the `AlienVault_OTX_API_Key.env` key file to run right now tho i might bundle them in with the python in a package or even hardcode em right into some C++.
-- also it requires a hella lotta libratries so getting it crammed down into something selfcontained also has appeal there.
-
-i'vee gone right through versions from 0.0.1 to 1.0.x and were now officially working, just a few teething tiny issues so basically ihis is a living breathing lobsterpot lifeform ready to be trained and released to munch its way round the world!
-
-this was written in about 20hrs btw so pls be forgiving if there's any weirds or errs.
+<p align="center">
+  <img src="lobsterpot-banner.png" width="850" alt="lobsterpot Banner"> 
+</p>
 
 
